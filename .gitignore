@@ -5,6 +5,8 @@ radic.phar.pubkey
 /.idea
 /config.php
 /gh-pages
+/composer.lock
+
 /node_modules
 /.env
 /logs
